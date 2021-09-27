@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2095897.chunk.css",
+    "main.js": "/static/js/main.301ab85d.chunk.js",
+    "main.js.map": "/static/js/main.301ab85d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.45346b88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.45346b88.js.map",
+    "static/js/2.bd238d3f.chunk.js": "/static/js/2.bd238d3f.chunk.js",
+    "static/js/2.bd238d3f.chunk.js.map": "/static/js/2.bd238d3f.chunk.js.map",
+    "static/js/3.219a8360.chunk.js": "/static/js/3.219a8360.chunk.js",
+    "static/js/3.219a8360.chunk.js.map": "/static/js/3.219a8360.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c2095897.chunk.css.map": "/static/css/main.c2095897.chunk.css.map",
+    "static/js/2.bd238d3f.chunk.js.LICENSE.txt": "/static/js/2.bd238d3f.chunk.js.LICENSE.txt",
+    "static/media/LOGO-SR12.416baaa4.png": "/static/media/LOGO-SR12.416baaa4.png",
+    "static/media/banner-1.82906339.png": "/static/media/banner-1.82906339.png",
+    "static/media/banner-2.6aa1c91c.png": "/static/media/banner-2.6aa1c91c.png",
+    "static/media/banner-3.a3661eb0.png": "/static/media/banner-3.a3661eb0.png",
+    "static/media/App.css": "/static/media/banner-home.a7528bc6.png",
+    "static/media/product1.e29d2c30.jpeg": "/static/media/product1.e29d2c30.jpeg",
+    "static/media/promo1.5a6c63f5.jpg": "/static/media/promo1.5a6c63f5.jpg",
+    "static/media/promo2.68abb1bb.jpg": "/static/media/promo2.68abb1bb.jpg",
+    "static/media/testimoni1.b6640043.jpeg": "/static/media/testimoni1.b6640043.jpeg",
+    "static/media/testimoni2.8e213b8c.jpg": "/static/media/testimoni2.8e213b8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45346b88.js",
+    "static/js/2.bd238d3f.chunk.js",
+    "static/css/main.c2095897.chunk.css",
+    "static/js/main.301ab85d.chunk.js"
+  ]
+}
