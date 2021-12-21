@@ -3,7 +3,11 @@
     height: auto;
 }
 
-#icon-head img {
+/* #icon-head img {
     width: 50%;
     height: 50%;
+} */
+
+.navbar-toggler{
+    border: 1px solid black;
 }

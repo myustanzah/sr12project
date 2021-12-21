@@ -1,52 +1,24 @@
 import Image1 from "../../../assets/product1.jpeg";
+import Image2 from "../../../assets/2.jpeg";
+import Image3 from "../../../assets/3.jpg";
+import Image4 from "../../../assets/4.jpg";
+import "./product.css";
 
 export default function Product() {
   return (
     <>
-      <div class="row row-cols-2 row-cols-md-4 g-6">
-        <div class="col d-flex justify-content-center">
-          <div class="card" style={{ width: "18rem" }}>
-            <img src={Image1} class="card-img-top" alt="..." />
-            <div class="card-body">
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-            </div>
-          </div>
+      <div class="productList">
+        <div className="col">
+          <img src={Image1} alt="" width="auto" height="auto" />
         </div>
-        <div class="col d-flex justify-content-center">
-          <div class="card" style={{ width: "18rem" }}>
-            <img src={Image1} class="card-img-top" alt="..." />
-            <div class="card-body">
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-            </div>
-          </div>
+        <div className="col">
+          <img src={Image2} alt="" width="auto" height="auto" />
         </div>
-        <div class="col d-flex justify-content-center">
-          <div class="card" style={{ width: "18rem" }}>
-            <img src={Image1} class="card-img-top" alt="..." />
-            <div class="card-body">
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-            </div>
-          </div>
+        <div className="col">
+          <img src={Image3} alt="" width="auto" height="auto" />
         </div>
-        <div class="col d-flex justify-content-center">
-          <div class="card" style={{ width: "18rem" }}>
-            <img src={Image1} class="card-img-top" alt="..." />
-            <div class="card-body">
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
-            </div>
-          </div>
+        <div className="col">
+          <img src={Image4} alt="" width="auto" height="auto" />
         </div>
       </div>
     </>
